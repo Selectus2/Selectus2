@@ -6,7 +6,6 @@ I am Vishwajeetsingh Desurkar, completed my bachelor's degree majoring in comput
 
 [![Linkedin Badge](https://img.shields.io/badge/-VishwajeetsinghDesurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishwajeetsingh-desurkar/)](https://www.linkedin.com/in/vishwajeetsingh-desurkar/)
 [![Instagram Badge](https://img.shields.io/badge/__vishwajeetsingh_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__vishwajeetsingh_/)](https://www.instagram.com/__vishwajeetsingh_/)
-[![Medium Badge](https://img.shields.io/badge/-@vishwajeetsingh.desurkar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vishwajeetsingh.desurkar)](https://medium.com/@vishwajeetsingh.desurkar)
 [![Gmail Badge](https://img.shields.io/badge/-vishwajeetsinghd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwajeetsinghd@gmail.com)](mailto:vishwajeetsinghd@gmail.com)
 
 ## ⚡ Technologies
