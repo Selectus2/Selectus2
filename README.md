@@ -24,6 +24,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read books and meet techies.
 
+## Talks
+
+  #### RubyConf Australia 2024 
+   [![Concurrency Showdown: Threads vs Fibers](https://img.youtube.com/vi/kU22NJq1sS0/0.jpg)](https://www.youtube.com/watch?v=kU22NJq1sS0)
+   
+  #### RubyConf India 2023
+  [![Connecting the Dots](https://img.youtube.com/vi/YhkEQ9pP-W0/0.jpg)](https://www.youtube.com/watch?v=YhkEQ9pP-W0)
+
+  ### Prose & Code - FC Pune
+  [![Beyond Cubical](http://i.ytimg.com/vi/nnF_fbvtM0w/hqdefault.jpg)](https://www.youtube.com/watch?v=nnF_fbvtM0w)
+
 ### ⚡ Technologies
 
  # ![C](https://img.shields.io/badge/C-C%20Programming-brown) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Ruby on Rails](https://img.shields.io/badge/ROR-Ruby%20on%20Rails-red) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![GoLang](https://img.shields.io/badge/Go-Go%20Programming-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
